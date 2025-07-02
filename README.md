@@ -1,7 +1,7 @@
 # 💳 Credit Score Classification - Mini Project
 👋 Hello folks! Welcome to this exciting mini-project on Credit Score Classification!
 
-📝 Project Overview
+## 📝 Project Overview
 In this project, we work with a real-world dataset related to credit score evaluation. The dataset includes comprehensive financial and behavioral attributes of individuals such as:
 
 Annual Income
@@ -24,7 +24,7 @@ The target variable is the Credit Score, which is categorized into Good, Standar
 
 Our objective is to build an end-to-end machine learning pipeline—from data exploration and preprocessing to model training and evaluation—to predict an individual’s credit score category accurately.
 
-🎯 Objective
+## 🎯 Objective
 The main goal is to build and compare the performance of multiple classification models to accurately predict an individual’s creditworthiness based on their financial profile.
 
 This classification is essential for financial institutions to:
@@ -37,7 +37,7 @@ Deliver personalized credit solutions
 
 Prevent bad debt and improve repayment rates
 
-Models Evaluated:
+## Models Evaluated:
 Logistic Regression
 
 Naive Bayes
@@ -52,7 +52,7 @@ XGBoost
 
 Artificial Neural Network (ANN)
 
-📊 Evaluation Metrics
+## 📊 Evaluation Metrics
 To compare the models and ensure performance consistency, we use the following metrics:
 
 Accuracy
@@ -67,7 +67,7 @@ Confusion Matrix
 
 These metrics provide a comprehensive understanding of how well each model distinguishes between different credit score categories.
 
-🧰 Tools & Libraries
+## 🧰 Tools & Libraries
 The project is implemented using Python, with the help of widely-used data science libraries:
 
 pandas – Data manipulation
@@ -82,7 +82,7 @@ xgboost – Advanced boosting framework
 
 tensorflow / keras – For building the ANN model
 
-✅ Outcome
+## ✅ Outcome
 By analyzing and comparing the performance of all models, we aim to identify the best-performing classifier for credit score prediction.
 
 Key outcomes include:
